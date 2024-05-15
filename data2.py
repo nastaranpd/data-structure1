@@ -6,7 +6,7 @@ while True:
     print('2-sum')
     print('3-multiply')
     print('4-print')
-    print('5-exist')
+    print('5-exit')
     command=int(input('enter command number :'))
     if command==1:
        numco=int(input('enter number of coefficient :'))
